@@ -1,101 +1,73 @@
-<div align="center">
-  
 # FAYIS NAMBIYATH
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=38B2AC&center=true&vCenter=true&random=false&width=600&lines=MERN+Stack+Developer;AWS+Cloud+Enthusiast;Full-Stack+Problem+Solver)](https://git.io/typing-svg)
-
-</div>
-
-## Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-I'm a passionate **MERN Stack Developer** with expertise in building scalable and efficient web applications. My development philosophy centers around creating clean, maintainable code that delivers meaningful digital experiences.
+> Full-Stack MERN Developer | AWS Cloud Enthusiast
 
 <div align="center">
-  
-[![GitHub followers](https://img.shields.io/github/followers/Faydevlop?style=social)](https://github.com/Faydevlop)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fayis_Nambiyath-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/fayis-nambiyath)
-
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
 
-## 🚀 Tech Stack
+## About Me
+
+Hello, I'm Fayis! I build scalable and efficient web applications using the MERN stack. My focus is on creating clean, maintainable code that delivers meaningful digital experiences.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/fayis-nambiyath)
+[![GitHub followers](https://img.shields.io/github/followers/Faydevlop?style=flat&logo=github)](https://github.com/Faydevlop)
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Faydevlop&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Faydevlop&theme=tokyonight&hide_border=true" />
+</div>
+
+## 💻 Tech Stack
 
 ```javascript
-const fayis = {
-  frontend: ["HTML", "CSS", "JavaScript", "React"],
-  backend: ["Node.js", "Express", "CodeIgniter"],
-  databases: ["MongoDB", "MySQL"],
-  cloud: ["AWS", "EC2", "PM2", "Nginx"],
-  architecture: ["Microservices", "SOLID Principles", "MVC"],
-  currentFocus: "Building scalable MERN applications with clean architecture"
-};
+{
+  "languages": ["JavaScript", "TypeScript", "HTML", "CSS"],
+  "frontend": ["React"],
+  "backend": ["Node.js", "Express", "CodeIgniter"],
+  "databases": ["MongoDB", "MySQL"],
+  "cloud": ["AWS EC2", "PM2", "Nginx"],
+  "tools": ["Git", "GitHub", "VS Code"]
+}
 ```
 
-## 📈 GitHub Stats
+## 🔍 Featured Projects
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faydevlop&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faydevlop&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Most Used Languages" height="180em" />
+  <a href="https://github.com/Faydevlop/Moon-cart-Ecommerce">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Faydevlop&repo=Moon-cart-Ecommerce&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Faydevlop/Multi-App-Hosting-on-AWS-EC2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Faydevlop&repo=Multi-App-Hosting-on-AWS-EC2&theme=tokyonight" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/Faydevlop/solid-principles-task-api">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Faydevlop&repo=solid-principles-task-api&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Faydevlop/mysql-crud-task-api">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Faydevlop&repo=mysql-crud-task-api&theme=tokyonight" />
+  </a>
 </div>
 
-## 🔥 Contribution Streak
+## 📫 Let's Connect
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faydevlop&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
-## 📊 Weekly Development Breakdown
-
-<div align="center">
-
-```text
-JavaScript   ████████████▓░░░   65.7%
-HTML/CSS     ███████░░░░░░░░░   35.2%
-Node.js      ████████░░░░░░░░   40.3%
-Express      ██████░░░░░░░░░░   30.1%
-MySQL        █████░░░░░░░░░░░   25.4%
-MongoDB      ████░░░░░░░░░░░░   20.7%
-```
-
-</div>
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![Moon-cart-Ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=Faydevlop&repo=Moon-cart-Ecommerce&theme=react&bg_color=0D1117&hide_border=true)](https://github.com/Faydevlop/Moon-cart-Ecommerce)
-[![Workwise](https://github-readme-stats.vercel.app/api/pin/?username=Faydevlop&repo=Workwise&theme=react&bg_color=0D1117&hide_border=true)](https://github.com/Faydevlop/Workwise)
-
-[![mysql-crud-task-api](https://github-readme-stats.vercel.app/api/pin/?username=Faydevlop&repo=mysql-crud-task-api&theme=react&bg_color=0D1117&hide_border=true)](https://github.com/Faydevlop/mysql-crud-task-api)
-[![solid-principles-task-api](https://github-readme-stats.vercel.app/api/pin/?username=Faydevlop&repo=solid-principles-task-api&theme=react&bg_color=0D1117&hide_border=true)](https://github.com/Faydevlop/solid-principles-task-api)
-
-</div>
-
-## 🛠️ Technology Radar
-
-<div align="center">
-  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Faydevlop&skills=javascript,html,css,nodejs,react,mongodb,mysql,express&width=820" alt="CodersRank Skills Chart" />
-</div>
-
-## 🔄 Contribution Activity
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Faydevlop&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
-## 📫 Connect With Me
-
-<div align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/fayis-nambiyath"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Faydevlop"><img src="https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/fayis-nambiyath">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </div>
 
 <div align="center">
-  
-### Let's build something amazing together!
-  
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Faydevlop.Faydevlop)](https://github.com/Faydevlop)
-  
+  <b>Let's build something amazing together!</b>
+  <br><br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Faydevlop.Faydevlop" alt="visitors">
 </div>
-
-<!-- Profile inspired by various amazing GitHub profiles and customized for MERN stack focus -->
