@@ -28,10 +28,10 @@ Hello, I'm Fayis! I build scalable and efficient web applications using the MERN
 ```javascript
 {
   "languages": ["JavaScript", "TypeScript", "HTML", "CSS"],
-  "frontend": ["React"],
-  "backend": ["Node.js", "Express", "CodeIgniter"],
+  "frontend": ["React","Nextjs"],
+  "backend": ["Node.js", "Express", "Bun.js","Hono","Elysia"],
   "databases": ["MongoDB", "MySQL"],
-  "cloud": ["AWS EC2", "PM2", "Nginx"],
+  "cloud": ["AWS EC2", "PM2", "Nginx","GCP","Hiroku"],
   "tools": ["Git", "GitHub", "VS Code"]
 }
 ```
@@ -68,6 +68,4 @@ Hello, I'm Fayis! I build scalable and efficient web applications using the MERN
 
 <div align="center">
   <b>Let's build something amazing together!</b>
-  <br><br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Faydevlop.Faydevlop" alt="visitors">
 </div>
